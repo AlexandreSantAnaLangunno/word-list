@@ -28,9 +28,9 @@
 
 ---
 
-[~~A-B~~]()
+[A-B](https://github.com/AlexandreSantAnaLangunno/word-list/letters/A-B.txt)
 
-[~~a-b~~]()
+[a-b](https://github.com/AlexandreSantAnaLangunno/word-list/letters/a-b.txt)
 
 [~~A-C~~]()
 
